@@ -7,6 +7,6 @@
 *.iws
 *.ipr
 gen
-gradle
+.gradle
 !**/src/main/**/out/
 !**/src/test/**/out/
