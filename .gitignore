@@ -6,7 +6,7 @@
 *.iml
 *.iws
 *.ipr
-gen
 .gradle
+/build/
 !**/src/main/**/out/
 !**/src/test/**/out/
